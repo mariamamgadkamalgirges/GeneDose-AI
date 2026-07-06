@@ -1,0 +1,5 @@
+Patient_ID,Age,Diagnosis,Mutation,Risk_Group,Recommended_Drug,Clinical_Note
+AML-001,45,Acute Myeloid Leukemia,FLT3-ITD,High Risk,Midostaurin,Targeted therapy may be considered with standard chemotherapy
+AML-002,52,Acute Myeloid Leukemia,IDH1,Intermediate Risk,Ivosidenib,IDH1 inhibitor may be considered based on physician evaluation
+AML-003,60,Acute Myeloid Leukemia,IDH2,Intermediate Risk,Enasidenib,IDH2 inhibitor may be considered based on physician evaluation
+AML-004,38,Acute Myeloid Leukemia,NPM1,Lower Risk,Standard Chemotherapy,Monitor response and follow clinical guidelines
