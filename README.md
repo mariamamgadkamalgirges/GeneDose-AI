@@ -1,37 +1,75 @@
 # 🧬 GeneDose AI
 
-> AI-powered precision medicine platform for Acute Myeloid Leukemia (AML).
+## AI-Powered Precision Medicine Platform for Acute Myeloid Leukemia (AML)
 
-GeneDose AI is a clinical decision support platform that helps oncologists interpret genomic sequencing data and generate personalized treatment recommendations for AML patients.
+GeneDose AI is an AI-assisted clinical decision support platform designed to help oncologists interpret genomic (NGS) data and organize clinically relevant information for patients with Acute Myeloid Leukemia (AML).
 
-## Problem
+## Project Overview
 
-AML treatment decisions depend on complex genetic mutations such as FLT3, NPM1, IDH1, IDH2, TP53, and others.  
-Interpreting genomic data manually can be time-consuming and requires specialized expertise.
+The platform combines bioinformatics concepts, mutation interpretation, and a user-friendly interface to support personalized treatment planning.
 
-## Solution
+## Features
 
-GeneDose AI transforms genomic data into clear clinical insights by:
+- Patient Management
+- NGS Analysis
+- Mutation Detection
+- Clinical Report Generation
+- Patient History
+- Subscription Plans
+- Secure Dashboard
 
-- Detecting AML-related mutations
-- Classifying patient risk
-- Matching mutations with targeted therapies
-- Generating AI-assisted clinical reports
-- Supporting doctors without replacing medical judgment
+## Bioinformatics Workflow
 
-## Workflow
+Patient
 
-```text
-Patient NGS Data
-      ↓
-Variant Detection
-      ↓
-Mutation Interpretation
-      ↓
-Risk Classification
-      ↓
-Drug Recommendation
-      ↓
+↓
+
+Blood Sample
+
+↓
+
+DNA Extraction
+
+↓
+
+NGS Sequencing
+
+↓
+
+Quality Control
+
+↓
+
+Alignment
+
+↓
+
+Variant Calling
+
+↓
+
+Mutation Annotation
+
+↓
+
+AI-assisted Decision Support
+
+↓
+
 Clinical Report
-      ↓
-Doctor Review
+
+## Prototype
+
+The UI prototype was designed in Canva and demonstrates the complete workflow of the application.
+
+## Future Work
+
+- Integrate real NGS datasets.
+- Develop machine learning models.
+- Connect with hospital EMR systems.
+- Deploy as a cloud-based platform.
+
+## Team
+
+VENTARA Competition Team
+Faculty of Pharmacy
