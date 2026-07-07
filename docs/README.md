@@ -1,12 +1,23 @@
-# Documentation
+# Project Overview
 
-This folder contains all technical documentation for GeneDose AI.
+## GeneDose AI
 
-## Contents
+GeneDose AI is an AI-powered precision medicine platform developed to support oncologists in the management of Acute Myeloid Leukemia (AML).
 
-- System Architecture
-- AI Workflow
-- Database Design
-- API Documentation
-- Business Model
-- Deployment Guide
+The platform integrates genomic sequencing (NGS), bioinformatics analysis, and AI-assisted decision support into a single workflow.
+
+## Objectives
+
+- Improve interpretation of genomic mutations.
+- Support evidence-based treatment planning.
+- Generate structured clinical reports.
+- Organize patient history in one platform.
+- Reduce time required for reviewing NGS results.
+
+## Target Users
+
+- Oncologists
+- Hematologists
+- Cancer Centers
+- Hospitals
+- Research Institutions
