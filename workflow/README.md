@@ -1,51 +1,7 @@
-# Bioinformatics Workflow
+# GeneDose AI Bioinformatics Pipeline
 
-GeneDose AI follows a standard clinical genomics workflow for Acute Myeloid Leukemia (AML).
+This workflow illustrates the complete process from patient registration to AI-assisted clinical decision support.
 
-## Workflow
+## Workflow Diagram
 
-Patient
-
-↓
-
-Blood Sample Collection
-
-↓
-
-DNA Extraction
-
-↓
-
-NGS Sequencing
-
-↓
-
-FASTQ Quality Control
-
-↓
-
-Sequence Alignment
-
-↓
-
-Variant Calling
-
-↓
-
-Variant Annotation
-
-↓
-
-Mutation Interpretation
-
-↓
-
-AI Decision Support
-
-↓
-
-Treatment Recommendation
-
-↓
-
-Clinical Report
+![Bioinformatics Pipeline](photo_5938090680032890756.jpg)
