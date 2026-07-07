@@ -1,13 +1,17 @@
 # Clinical Reports
 
-GeneDose AI generates structured clinical reports to support oncologists in treatment planning.
+This folder contains sample AI-generated clinical reports produced by GeneDose AI.
 
-## Report Contents
+## Available Reports
+
+- Sample AML Clinical Report (PDF)
+
+The report includes:
 
 - Patient Information
-- Detected Gene Mutations
-- Risk Classification
-- AI-assisted Treatment Recommendation
-- Supporting Clinical Evidence
-- Physician Notes
-- PDF Export
+- NGS Analysis Results
+- Detected Mutations
+- ELN Risk Classification
+- AI Interpretation
+- Treatment Recommendation
+- Supporting Guidelines
