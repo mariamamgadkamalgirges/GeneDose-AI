@@ -1,23 +1,31 @@
 # Technology Stack
 
-Frontend
-- Flutter
+## Frontend
+- Canva (UI/UX Prototype)
 
-Backend
-- FastAPI (Python)
+## Version Control
+- GitHub
 
-AI
-- Scikit-learn
-- XGBoost
-- Pandas
+## Programming Language (Planned)
+- Python
 
-Bioinformatics
-- Biopython
-- PyVCF
+## Bioinformatics
+- Next Generation Sequencing (NGS)
+- FASTQ
+- Sequence Alignment
+- Variant Calling
+- Variant Annotation
 
-Database
+## Artificial Intelligence
+- AI-assisted Clinical Decision Support
+
+## Clinical References
+- NCCN Guidelines
+- FDA-approved AML Therapies
+
+## Future Technologies
+- Streamlit
+- FastAPI
 - PostgreSQL
-
-Cloud
-- Firebase Authentication
-- AWS
+- Docker
+- Cloud Deployment
